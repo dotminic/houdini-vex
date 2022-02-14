@@ -30,3 +30,5 @@ for (int i = pcount; i >= 0; i--)
     removepoint(1, i);
 }
 ```
+
+![plexus-high](https://user-images.githubusercontent.com/740173/153961107-e925dc29-2466-4197-acd1-15eb0a6a2181.gif)
