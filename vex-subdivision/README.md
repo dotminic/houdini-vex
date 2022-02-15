@@ -21,3 +21,5 @@ for (int i = 0; i < ppointCount; i++)
 
 removeprim(0, @primnum, 0);
 ```
+![test1](https://user-images.githubusercontent.com/740173/154046188-98420193-83a5-43e7-920f-21b81101694e.jpg)
+![test](https://user-images.githubusercontent.com/740173/154046193-8c83b30c-dbd9-4a69-bd0a-b83b2ec8fbeb.jpg)
