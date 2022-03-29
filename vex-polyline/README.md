@@ -1,6 +1,6 @@
 # VEX polylines
 
-Iterate over each point and add a polyline between points that are less than a certain distance apart. The iteration is done in reverse order on the geo stream in input 1 in order to build the polylines on geo stream 0.
+Iterate over each point and add a polyline between points that are less than a certain distance apart. **The iteration is done in reverse order reading in the geo stream in input 1 in order to build the polylines on geo stream 0**.
 After each iteration the current point is deleted to avoid double connections.
 ```C
 float md = chf("max_dist");
